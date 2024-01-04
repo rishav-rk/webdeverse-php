@@ -1,0 +1,44 @@
+/* Style for the list items */
+.list_items_holder {
+    padding: 20px;
+    background-color: #F2DBDA; /* Light peach background */
+}
+
+.card_java {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.list_items {
+    background-color: #82bc50; /* Green background */
+    color: #ffffff; /* White text */
+    padding: 20px;
+    border-radius: 10px;
+    /* text-align: center; */
+    text-decoration: none;
+    display: flex;
+    /* flex-direction: column; */
+    /* justify-content: flex-start; */
+    align-items: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    font-weight: bold;
+    border-left: 4px solid var(--colorblob2);
+    cursor: pointer;
+}
+
+.list_items:hover {
+    background-color: #ffffff; /* White background on hover */
+    color: #82bc50; /* Green text on hover */
+    transform: scale(1.02); /* Slight scale on hover for a playful effect */
+}
+
+.list_items:nth-child(odd) {
+    background-color: #ffbb00; /* Yellow background for odd cards */
+    color:black;
+}
+
+.list_items:nth-child(odd):hover {
+    background-color: #0500FF; /* Dark blue background on hover for odd cards */
+    color: #ffffff; /* White text on hover for odd cards */
+}

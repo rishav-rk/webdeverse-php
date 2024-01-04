@@ -1,0 +1,13 @@
+Enter the Matrix of rows and columns entered by the user and print in matrix format.
+Program to Add Two Matrices.
+Program to Multiply Two Matrices.
+Program to subtract the two matrices.
+Program to determine whether two matrices are equal.
+Program to display the lower triangular matrix.
+Program to display the upper triangular matrix.
+Program to find the frequency of odd & even numbers in the given matrix.
+Program to find the sum of each row and each column of a matrix.
+Program to find the transpose of a given matrix.
+Program to determine whether a given matrix is an identity matrix.
+Program to Transpose matrix.
+Program to determine whether a given matrix is a sparse matrix

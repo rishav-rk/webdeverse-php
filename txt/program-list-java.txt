@@ -1,0 +1,11 @@
+Create a simple AWT application that displays a TextField with FlowLayout manager
+Java Program to Handle KeyBoardEvent
+Write a Java program that reads a list of numbers from a file and throws an exception if any of the numbers are positive 
+Write a Java program to throw the SQL Query, insert, delete, update, if not successful then throw an exceptioned
+Write a Java method to compute the average of three numbers.
+A class to represent a bank
+Delete the row in the table in the database from Java API.
+Write a Java program to create a class called "Circle" with a radius attribute. You can access and modify this attribute. Calculate the area and circumference of the circle.
+Program to Convert String to String Array
+Program to count the total number of punctuation characters exists in a String in java
+Program to find the frequency of odd & even numbers in the given matrix.

@@ -1,0 +1,15 @@
+Create an applet showing the string "Hello World" which is embedded in the HTML page.
+Create an applet showing the string "Hello World" which is executed by an appletviewer.
+Create an applet in Java to draw a circle.
+Create an applet in Java to draw a polygon.
+Create an applet in Java to draw a rectangle.
+Create an applet in Java to draw a square.
+Create an applet in Java to draw a 4 concentric circles.
+Create an applet in Java to draw a line.
+Create an applet in Java to draw a oval.
+Create an applet in Java to draw a arc.
+Create an applet in Java to change the background color.
+Create an applet in Java to draw rounded rectangle.
+Create an applet in Java to set font.
+Create an applet to display a digital clock.
+Java Program to Draw a Smiling Face using Graphics Class Methods.

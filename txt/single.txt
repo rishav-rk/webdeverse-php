@@ -1,0 +1,23 @@
+Program to copy all elements of one array into another array
+Program to find the frequency of each element in the array
+Program to left rotate the elements of an array.
+Program to print the duplicate elements of an array.
+Program to print the elements of an array.
+Program to print the elements of an array in reverse order.
+Program to print the elements of an array present on even position.
+Program to print the elements of an array present on odd position.
+Program to print the largest element in an array.
+Program to print the smallest element in an array.
+Program to print the number of elements present in an array.
+Program to print the sum of all the items of the array.
+Program to right rotate the elements of an array.
+Program to sort the elements of an array in ascending order.
+Program to sort the elements of an array in descending order.
+Program to Find 3rd Largest Number in an array.
+Program to Find 2nd Largest Number in an array.
+Program to Find Largest Number in an array.
+Program to Find 2nd Smallest Number in an array.
+Program to Find Smallest Number in an array.
+Program to Remove Duplicate Element in an array.
+Program to Print Odd and Even Numbers from an array.
+How to Sort an Array in Java.

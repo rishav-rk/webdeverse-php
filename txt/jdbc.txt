@@ -1,0 +1,9 @@
+Create the connection with MySQL Database and manage the driver.
+Create the table in the database from Java API.
+Insert the row in the table in the database from Java API.
+Update the row in the table in the database from Java API.
+Delete the row in the table in the database from Java API.
+Select multiple rows from the database table in Java API and show the result on the screen.
+Create a Scrollable Readonly Resultset and ask the row number from the user and display that row on the screen.
+Create a Scrollable Updateable Resultset and insert a new row, update an existing row and delete the row from Resultset and also the changes should be made to the database also. The values should be inserted, updated and deleted by the user only.
+Create a Java Program to show, insert, update, delete of the table in Java API through PreparedStatement.

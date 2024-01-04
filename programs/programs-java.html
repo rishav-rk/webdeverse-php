@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Webdeverse | Programs home</title>
+    <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="../css/nav-bar.css">     
+    <link rel="stylesheet" href="../css/footer.css">
+    <link rel="stylesheet" href="../css/programs-java.css">
+</head>
+<body>
+    <header>
+        <div class="navbar"></div>
+        <div class="head-content">
+            <div class="page_title">
+                <h1>Programs</h1>
+            </div>
+            <div class="fun_fact">
+                <h2>Random Fact</h2>   
+                <p>Today, Java rationally runs on more than 1 billion as the Android operating<br> system of Google uses Java APIs.</p> 
+            </div>
+        </div>
+    </header>
+            <div class="design"></div>
+            <main>
+                <aside>
+                    <div class="side_bar">
+
+                        <ul>
+                            <a href="../html/single_d.html" target="show"><li class="active"><span>Java</span></li></a>
+                            <a href="#"><li><span>PHP</span></li></a>
+                            <a href="#"><li><span>JavaScript</span></li></a>
+                            <a href="#"><li><span>C++</span></li></a>
+                        </ul>
+                    </div>
+                </aside>
+                    <div class="frame">
+                        <iframe src="../html/single_d.html" frameborder="0" name="show"></iframe>
+                    </div>
+            </main>
+    <footer>
+    </footer>
+</body>
+<script>
+$(document).ready(function(){
+    $(".navbar").load("../html/navbar.html");
+});
+$(function() {
+            // Add click event to each li element
+            $('.program-list li').on('click', function() {
+                // Remove the "active" class from all li elements
+                $('.program-list li').removeClass('active');
+                // Add the "active" class to the clicked li element
+                $(this).addClass('active');
+            });
+        });
+$(document).ready(function(){
+    $("footer").load("../html/footer.html");
+});
+</script>
+</html>

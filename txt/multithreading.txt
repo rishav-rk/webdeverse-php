@@ -1,0 +1,13 @@
+Write a Java program to create a basic Java thread that prints "Hello, World!" when executed.
+Write a Java program that creates two threads to find and print even and odd numbers from 1 to 20.
+Write a Java program that sorts an array of integers using multiple threads.
+Write a Java program that performs matrix multiplication using multiple threads.
+Write a Java program that calculates the sum of all prime numbers up to a given limit using multiple threads.
+Write a Java program to implement a concurrent web crawler that crawls multiple websites simultaneously using threads.
+Write a Java program that creates a bank account with concurrent deposits and withdrawals using threads.
+Create the program to create multiple threads by using Runnbale interface.
+Create the program to create multiple threads by using Thread class.
+Create the program to create multiple threads, set its name and its priority.
+Create the program to create multiple threads, show an example of synchronization keyword.
+Create the program to create multiple threads, show an example of notify, notifyall, wait, resume, sleep methods.
+Create the program to create multiple threads, show an example of join and yield methods.

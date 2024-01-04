@@ -1,0 +1,10 @@
+Enter the character from user using InputStreamReader.
+Enter the string from user using BufferedStreamReader.
+Enter the integer from user using Scanner class.
+Enter the float from user using Scanner class.
+Enter the double from user using Scanner class.
+Enter the boolean from user using Scanner class.
+Enter the short integer from user using Scanner class.
+Enter the long integer from user using Scanner class.
+Get all characters from the file and display on the screen.
+Get all characters from the file, count number of lines, words, characters and display on the screen.

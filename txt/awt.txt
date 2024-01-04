@@ -1,0 +1,18 @@
+Create a simple AWT application that displays a button with FlowLayout manager.
+Create a simple AWT application that displays a button with Custom Layout.
+Create a simple AWT application that displays multiple buttons with BorderLayout manager (North, East, West, South, Center).
+Create a simple AWT application that displays a TextField with FlowLayout manager.
+Create a simple AWT application that displays a TextField with Custom Layout.
+Create a simple AWT application that displays a Checkbox with FlowLayout manager.
+Create a simple AWT application that displays a Checkbox with Custom Layout.
+Create a simple AWT application that displays a Label with FlowLayout manager.
+Create a simple AWT application that displays a Label with Custom Layout.
+Create a simple AWT application that displays a Choice with FlowLayout manager.
+Create a simple AWT application that displays a Choice with Custom Layout.
+Create a simple AWT application that displays a CheckboxGroup with FlowLayout manager.
+Create a simple AWT application that displays a CheckboxGroup with Custom Layout.
+Create a simple AWT application that displays a List with FlowLayout manager.
+Create a simple AWT application that displays a List with Custom Layout.
+Create a simple AWT application that displays a TextArea with FlowLayout manager.
+Create a simple AWT application that displays a TextArea with Custom Layout.
+Create a simple AWT application design a calculator that displays buttons, TextField with GridLayout manager.

@@ -1,0 +1,13 @@
+Write a Java method to find the smallest number among three numbers.
+Write a Java method to compute the average of three numbers.
+Write a Java method to display the middle character of a string.<br>Note:-<br>a) If the length of the string is odd there will be two middle characters.<br>b) If the length of the string is even there will be one middle character.
+Write a Java method to count all the words in a string.
+Write a Java method to compute the future investment value at a given interest rate for a specified number of years.
+Write a Java method to print characters between two characters (i.e. A to P).
+Write a Java method to check whether a string is a valid password.
+Write a Java method to display the current date and time.
+Write a Java method to find all twin prime numbers less than 100.
+Write a Java method to count the number of digits in an integer with the value 2. The integer may be assumed to be non-negative.
+Write a Java method that accepts three integers and checks whether they are consecutive or not. Returns true or false.
+Write a Java method that accepts three integers and returns true if one is the middle point between the other two integers, otherwise false
+Write a Java method that checks whether all the characters in a given string are vowels (a, e,i,o,u) or not. Return true if each character in the string is a vowel, otherwise return false.

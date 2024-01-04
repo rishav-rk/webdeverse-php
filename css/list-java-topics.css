@@ -1,0 +1,45 @@
+/* Style for the container */
+.topics-java {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+    background-color: #F2DBDA; /* Light peach background */
+}
+
+/* Style for individual tiles */
+.list-items {
+    width: 200px; /* Fixed width */
+    height: 150px; /* Fixed height */
+    background-color: #82bc50; /* Green background */
+    color: #ffffff; /* White text */
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-weight: bold;
+    align-items: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.list-items:hover {
+    background-color: #ffffff; /* White background on hover */
+    color: #82bc50; /* Green text on hover */
+    transform: scale(1.05); /* Slight scale on hover for a playful effect */
+}
+
+.list-items:nth-child(odd) {
+    background-color: #ffbb00; /* Yellow background for odd tiles */
+    color:black;
+}
+
+.list-items:nth-child(odd):hover {
+    background-color: #0500FF; /* Dark blue background on hover for odd tiles */
+    color: #ffffff; /* White text on hover for odd tiles */
+}

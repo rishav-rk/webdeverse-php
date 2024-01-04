@@ -1,0 +1,89 @@
+/* header{
+    height:20vh;
+}
+.head_content
+{
+    height: inherit;
+}
+.page_title h4
+{
+    font-size: 1.5rem;
+    color:var(--colorhigh);
+}
+.page_title
+{
+    width:100%;
+    height:inherit;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+span.diff{
+    color: var(--colorblob2);
+} */
+.head_content {
+    background-color: #82bc50;
+    padding: 20px;
+    color: #f60000;
+    text-align: center;
+}
+
+.page_title h4 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.diff {
+    color: #000000; /* Red color for the span */
+}
+
+/* Add your own styles for the program output */
+main {
+    display: flex;
+    flex-direction: column; /* Stack elements in a column */
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.code-container,
+.output-container {
+    width: 100%; /* Take full width */
+    margin-bottom: 20px; /* Add space between code and output */
+    box-sizing: border-box;
+}
+
+.code-container {
+    background-color: var(--colorblob2);
+    border-radius: 8px;
+    color: #fff;
+    padding: 20px;
+    height: fit-content;
+}
+
+.code-container pre {
+    margin: 0;
+    font-weight: bold;
+    font-size: 1rem;
+    background-color:black;
+    border-left:5px solid white;
+    /* border-bottom:10px solid white; */
+    border-radius:inherit;
+    padding: 2rem;
+    text-wrap: wrap;
+}
+
+.output-container {
+    background-color: #ffbb00;
+    border-radius: 8px;
+    padding: 20px;
+    overflow: hidden; /* Hide any overflow from the image */
+    width:100%;
+    height: 40%;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    border-radius: 8px;
+    overflow-x: scroll;
+}

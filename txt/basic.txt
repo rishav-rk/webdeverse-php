@@ -1,0 +1,139 @@
+Write a Java program to print ‘Hello World!’ on screen.
+Write a Java program to print the sum of two numbers.
+Write a Java program that takes two numbers and display the product of two numbers.
+Write a Java program to print the sum, multiply, subtract, divide and remainder of two numbers.
+Write a Java program that takes five numbers as input to calculate and print the average of the numbers.
+Write a Java program to swap two variables.
+Write a Java program to convert a decimal number to binary numbers.
+Write a Java program to convert a binary number to decimal number.
+Write a Java program to check whether Java is installed on your computer or not.
+Write a Java program and compute the sum of the digits of an integer.
+Write a Java program to compare two numbers.
+Write a Java program to count the letters, spaces, numbers and other characters of an input string.
+Write a Java program to print the ascii value of a given character.
+Write a Java program that accepts an integer (n) and computes the value of n+nn+nnn.
+Write a Java program to display the system time.
+Write a Java program to print the odd numbers from 1 to 20.
+Write a Java program to print the even numbers from 1 to 20.
+Write a Java program to convert a string to an integer.
+Write a Java program to convert seconds to hour, minute and seconds.
+Write a Java program to compute the sum of the first 100 prime numbers.
+Write a Java program to swap the first and last elements of an array and create a new array.
+Write a Java program to count the number of even and odd elements in a given array.
+Write a Java program to compute the square root of an given integer.
+Write a Java program to check if a positive number is a palindrome or not.
+Write a Java program to add two numbers without using any arithmetic operators.
+Write a Java program to add all the digits of a given positive integer.
+Java program to find area of circle.
+Java Program to find area of rectangle.
+Java Program to find area of triangle.
+Java Program to find area of equilateral triangle.
+Java Program to find area of rhombus.
+Java Program to find area of parallelogram.
+Java Program to find area of Prism.
+Java Program to find volume of sphere.
+Java Program to find volume of cylinder.
+Java Program to find volume of cuboid.
+Java Program to find volume of cone.
+Java program to find surface area of cuboid.
+Java program to find surface area of cylinder.
+Java program to find surface area of cube.
+Java program to calculate average marks.
+Java program to check vowel or consonant.
+Java program to sum of N numbers.
+Java program to find factorial of any number.
+Java Program to calculate electricity bill.
+Java Program To Calculate CGPA Percentage.
+Java Program to calculate compound interest.
+Java Program To Calculate Batting Average.
+Java Pogram to Calculate Commission Percentage.
+Java Pogram To Find Distance Between Two Points.
+Java Program To Calculate Power Of Number.
+Write a Java program to take three numbers from the user and print the greatest number.
+Write a Java program to find the number of days in a month.
+Write a Java program to test a number is positive or negative.
+Write a Java Program to accept number of week’s day (1-7) and print name of the day.
+Write a Java program that takes a year from user and print whether that year is a leap year or not.
+Write a Java program to input 5 numbers from keyboard and find their sum and average.
+Write a program in Java to display the first 5 natural numbers.
+Write a java program to check vowel or consonant.
+Write a Java program to display the cube of the number upto given an integer.
+Write a Java program to display the n terms of odd natural number and their sum.
+Write a Java program to display the multiplication table of a given integer.
+Write a Java program that reads an integer and check whether it is negative, zero, or positive.
+Write a Java program that reads an positive integer and count the number of digits.
+Write a Java program that accepts three numbers and check All numbers are equal or not.
+Write a java program that accepts three numbers from the user and check if numbers are in “increasing” or “decreasing” order..
+Write a Java program that determines a student’s grade.
+Write a Java program to create a simple calculator.
+Write a Java program to concatenate two string.
+Write a Java program to convert all characters in a string to lowercase.
+Write a Java program to convert all characters in a string to uppercase.
+Write a Java program to trim a string(remove whitespaces).
+Write a Java program to get a substring of a given string between two specified positions.
+Write a Java program to replace all the ‘d’ characters with ‘f’ characters.
+Write a java program to get the length of a given string.
+Write a java program to print current date and time in the specified format.
+Write a Java program to get the character at the given index within the String.
+Write a java program to remove a particular character from a string.
+Write a java program to reverse a String.
+Write a java program to remove html tags from a string.
+Write a java program to count total number of lines from a string.
+Write a Java program to sum values of an array.
+Write a Java program to find the index of an array element.
+Write a Java program to calculate the average value of array elements.
+Write a Java program to test if an array contains a specific value.
+Write a Java program to find the maximum and minimum value of an array.
+Write a Java program to insert an element (specific position) into an array.
+Write a Java program to reverse an array of integer values.
+Write a Java program to find the common elements between two arrays.
+Write a Java program to find the duplicate values of an array of integer values.
+Write a Java program to convert an array to ArrayList.
+Write a Java program to add two matrices of the same size.
+Write a Java program to find second largest number from the array.
+Write a Java program to find second lowest number from the array.
+Write a Java program to find the number of even and odd integers in a given array of integers.
+Write a Java program to get the difference between the largest and smallest values in an array of integers.
+Write a Java program to segregate all 0s on left side and all 1s on right side of a given array of 0s and 1s.
+Write a Java program to cyclically rotate a given array clockwise by one.
+java program to print all unique element in an array.
+ Write a Java Program to Sort the Array in an Ascending Order.
+Write a Java Program to Sort the Array in an Descending Order.
+Write a Java Program to Sort Names in an Alphabetical Order.
+Write a Java Program to Display Transpose Matrix.
+Write a Java Program to Search Key Elements in an Array.
+Write a Java Program to Accept the Marks of a Student and find Total Marks and Percentage.
+Write a java program to print numbers from 1 to 10 using loop.
+Write a java program to calculate the sum of first 10 natural number using loop.
+Write a Java program to print multiplication table of given number.
+Write a Java program to find the factorial value of any number entered through the keyboard.
+Write a Java program that prompts the user to input an integer and then outputs the number with the digits reversed order.
+Write a Java program that reads a set of integers, and then prints the sum of the even and odd integers using loop.
+Write a Java program to check whether the number is a prime number or not.
+Write a Java program to calculate HCF of Two given numbers using loop.
+Write a Java program to enter the numbers till the user wants and at the end it should display the count of positive, negative and zeros.
+Write a Java program to enter the numbers till the user wants and at the end the program should display the largest and smallest numbers entered.
+Write a Java program to print out all Armstrong numbers between 1 to 600 using loop.
+Write a java program to count total number of notes in entered amount using loop.
+Write a Java program to print Fibonacci series of n terms where n is input by user using loop.
+Write a java program to calculate the sum of following series where n is input by user.
+Write a Java method to compute the average of three numbers.
+Write a Java method to find the smallest number among three numbers.
+Write a Java method to count all words in a string.
+Write a Java method to count all vowels in a string.
+Write a Java method to compute the sum of the digits in an integer.
+Write a Java method to check whether an year entered by the user is a leap year or not.
+Write a Java method to calculate the area of a triangle.
+Write a Java method to find the area of a pentagon.
+Write a Java method to find number is even number or not.
+Write a Java method to check numbers is palindrome number or not.
+Write a Java method to displays prime numbers between 1 to 20.
+Write a Java method to find GCD and LCM of Two Numbers.
+Write a Java method to find factorial using recursion in java.
+Write a Java program to reverse an integer number.
+Write a Java program to round a float number to specified decimals.
+Write a Java program to test if a double number is an integer.
+Write a Java program to round up the result of integer division.
+Write a Java program to convert Roman number to an integer number.
+Write a Java program to convert a float value to absolute value.
+Write a Java program to accept a float value of number and return a rounded float value.
